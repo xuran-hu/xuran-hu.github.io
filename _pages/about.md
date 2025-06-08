@@ -56,96 +56,94 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <a id="publications"></a>
 ## 📄 Publications
 
-<!-- Begin: Publications Section (Card Style + Image on Top) -->
-
 <div style="font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.8;">
 
 <!-- Paper 1 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/SR.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b><br>
-    Submitted to <i>IEEE Geoscience and Remote Sensing Letter</i>
+    Submitted to <i>IEEE Geoscience and Remote Sensing Letters</i><br>
     📄 <a href="https://arxiv.org/pdf/2412.18121" target="_blank">arXiv</a>
   </div>
 </div>
 
 <!-- Paper 2 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/GUD.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</i></b><br>
-    Submitted to <i>Knowledge-based System</i>
+    Submitted to <i>Knowledge-based Systems</i><br>
     📄 <a href="https://arxiv.org/pdf/2408.01553" target="_blank">arXiv</a>
   </div>
 </div>
 
 <!-- Paper 3 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/poc.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
     <b><i>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</i></b><br>
-    <i>IEEE Telecommunications Forum</i>, 2024 
+    <i>IEEE Telecommunications Forum</i>, 2024<br>
     📄 <a href="https://ieeexplore.ieee.org/abstract/document/10819067" target="_blank">Paper</a> |
     💻 <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition" target="_blank">Code</a>
   </div>
 </div>
 
 <!-- Paper 4 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/RPGV.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
-    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024
+    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br>
     📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922" target="_blank">Paper</a>
   </div>
 </div>
 
 <!-- Paper 5 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/lshap_fchart.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
-    <i>Neural Networks</i>, 2024
+    <i>Neural Networks</i>, 2024<br>
     📄 <a href="https://doi.org/10.1016/j.neunet.2024.106634" target="_blank">Paper</a> |
     💻 <a href="https://github.com/Teriri1999/Latent-SHAP" target="_blank">Code</a>
   </div>
 </div>
 
 <!-- Paper 6 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/API-SAR.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</i></b><br>
-    <i>Neurocomputing</i>, 2024
+    <i>Neurocomputing</i>, 2024<br>
     📄 <a href="https://doi.org/10.1016/j.neucom.2024.128137" target="_blank">Paper</a>
   </div>
 </div>
 
 <!-- Paper 7 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/lshap.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Manifold-based Shapley for SAR Recognition Network Explanation</i></b><br>
-    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024
+    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
     📄 <a href="https://ieeexplore.ieee.org/abstract/document/10642512" target="_blank">Paper</a>
   </div>
 </div>
 
 <!-- Paper 8 -->
-<div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/RDDPM.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</i></b><br>
-    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024
+    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
     📄 <a href="https://ieeexplore.ieee.org/document/10641283" target="_blank">Paper</a>
   </div>
 </div>
