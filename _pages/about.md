@@ -1,11 +1,13 @@
 ---
+layout: single
 permalink: /
-title: "Xuran Hu's Academic Page"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: ""
+author_profile: false
 ---
+
+<style>
+.page__title { display: none; }
+</style>
 
 
 # About me
