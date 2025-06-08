@@ -56,120 +56,100 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <a id="publications"></a>
 ## 📄 Publications
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/synthesis_despeckling_part_00.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b><br>
-      📄 <a href="https://arxiv.org/pdf/2412.18121">[arXiv]</a>
-    </td>
-  </tr>
-</table>
+<!-- Begin: Publications Card View -->
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/GUD_flowchat.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</i></b><br>
-      📄 <a href="https://arxiv.org/pdf/2408.01553">[arXiv]</a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: start;">
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <!-- <img src="images/poc_flowchart.png" width="160"> -->
-      <img src="images/poc_flowchart.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
-      <b><i>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</i></b><br>
-      <i>IEEE Telecommunications Forum</i>, 2024<br>
-      📄 <a href="https://ieeexplore.ieee.org/abstract/document/10819067">[Paper]</a>
-      &nbsp;|&nbsp;
-      💻 <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition">[Code]</a>
-    </td>
-  </tr>
-</table>
+<!-- 1 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/synthesis_despeckling_part_00.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
+    <i><b>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</b></i><br><br>
+    📄 <a href="https://arxiv.org/pdf/2412.18121">arXiv</a>
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/mulit-class_00.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
-      <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br>
-      📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922">[Paper]</a>
-    </td>
-  </tr>
-</table>
+<!-- 2 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/GUD_flowchat.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    <b>Xuran Hu</b>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković<br>
+    <i><b>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</b></i><br><br>
+    📄 <a href="https://arxiv.org/pdf/2408.01553">arXiv</a>
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/shapley_nn2024.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
-      <i>Neural Networks</i>, 2024<br>
-      📄 <a href="https://doi.org/10.1016/j.neunet.2024.106634">[Paper]</a>
-      &nbsp;|&nbsp;
-      💻 <a href="https://github.com/Teriri1999/Latent-SHAP">[Code]</a>
-    </td>
-  </tr>
-</table>
+<!-- 3 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/poc_flowchart.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
+    <i><b>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</b></i><br>
+    <i>IEEE Telecommunications Forum</i>, 2024<br><br>
+    📄 <a href="https://ieeexplore.ieee.org/abstract/document/10819067">Paper</a> |
+    💻 <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition">Code</a>
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/API-SAR flowchat_00.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</i></b><br>
-      <i>Neurocomputing</i>, 2024<br>
-      📄 <a href="https://doi.org/10.1016/j.neucom.2024.128137">[Paper]</a>
-    </td>
-  </tr>
-</table>
+<!-- 4 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/mulit-class_00.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
+    <i><b>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</b></i><br>
+    <i>IEEE JSTARS</i>, 2024<br><br>
+    📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922">Paper</a>
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/feature_manifold_00.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>Manifold-based Shapley for SAR Recognition Network Explanation</i></b><br>
-      <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
-      📄 <a href="https://ieeexplore.ieee.org/abstract/document/10642512">[Paper]</a>
-    </td>
-  </tr>
-</table>
+<!-- 5 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/shapley_nn2024.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
+    <i><b>Manifold-based Shapley Explanations for High Dimensional Correlated Features</b></i><br>
+    <i>Neural Networks</i>, 2024<br><br>
+    📄 <a href="https://doi.org/10.1016/j.neunet.2024.106634">Paper</a> |
+    💻 <a href="https://github.com/Teriri1999/Latent-SHAP">Code</a>
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/Regional_restoration_00.png" height="120">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</i></b><br>
-      <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
-      📄 <a href="https://ieeexplore.ieee.org/document/10641283">[Paper]</a>
-    </td>
-  </tr>
-</table>
+<!-- 6 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/API-SAR flowchat_00.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
+    <i><b>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</b></i><br>
+    <i>Neurocomputing</i>, 2024<br><br>
+    📄 <a href="https://doi.org/10.1016/j.neucom.2024.128137">Paper</a>
+  </div>
+</div>
+
+<!-- 7 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/feature_manifold_00.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
+    <i><b>Manifold-based Shapley for SAR Recognition Network Explanation</b></i><br>
+    <i>IEEE IGARSS</i>, 2024<br><br>
+    📄 <a href="https://ieeexplore.ieee.org/abstract/document/10642512">Paper</a>
+  </div>
+</div>
+
+<!-- 8 -->
+<div style="width: 260px; display: inline-block; margin: 12px; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+  <img src="images/Regional_restoration_00.png" style="width: 100%; height: auto;">
+  <div style="padding: 10px; font-size: 14px;">
+    <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
+    <i><b>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</b></i><br>
+    <i>IEEE IGARSS</i>, 2024<br><br>
+    📄 <a href="https://ieeexplore.ieee.org/document/10641283">Paper</a>
+  </div>
+</div>
+
+</div>
+
 
 ---
 
