@@ -38,7 +38,48 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 </div>
 
+---
 
+## 📄 Publications
+
+<table>
+  <tr>
+    <td style="width: 120px; padding: 10px;">
+      <img src="images/shapley_nn2024" width="120">
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      <b>Hu, X.</b>, Zhu, M.*, Feng, Z., Stanković, L.<br>
+      <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
+      <i>Neural Networks</i> (JCR Q1, IF=7.8), 2024<br><br>
+
+      <a href="https://doi.org/10.1016/j.neunet.2024.106634" target="_blank" style="
+        display: inline-block;
+        padding: 6px 14px;
+        margin: 4px 6px 4px 0;
+        background-color: #0366d6;
+        color: white;
+        font-size: 13px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-family: 'Segoe UI', sans-serif;
+      ">📄 Paper</a>
+
+      <a href="https://github.com/Teriri1999/Latent-SHAP" target="_blank" style="
+        display: inline-block;
+        padding: 6px 14px;
+        margin: 4px 6px 4px 0;
+        background-color: #2da44e;
+        color: white;
+        font-size: 13px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-family: 'Segoe UI', sans-serif;
+      ">💻 Code</a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📄 Publications
 
