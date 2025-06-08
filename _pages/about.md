@@ -25,15 +25,15 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <div style="max-height: 200px; overflow-y: auto; padding: 0.75em 1em; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fcfcfc; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 1.6; color: #333;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><b style="color:#0366d6;">[Feb. 2025]</b> Submitted one paper to <i>IEEE GRSL</i>.</li>
-  <li><b style="color:#0366d6;">[Nov. 2024]</b> Presented at <i>TELFOR 2024</i>, Belgrade.</li>
-  <li><b style="color:#0366d6;">[Oct. 2024]</b> Submitted one paper to <i>Knowledge-based Systems</i>.</li>
-  <li><b style="color:#0366d6;">[Oct. 2024]</b> One paper accepted by <i>TELFOR 2024</i>.</li>
-  <li><b style="color:#0366d6;">[Sep. 2024]</b> One paper accepted by <i>IEEE JSTARS</i>.</li>
-  <li><b style="color:#0366d6;">[Aug. 2024]</b> One paper accepted by <i>Neural Networks</i>.</li>
-  <li><b style="color:#0366d6;">[Jun. 2024]</b> One paper accepted by <i>Neurocomputing</i>.</li>
-  <li><b style="color:#0366d6;">[May. 2024]</b> Joined University of Montenegro TFSA group as a visiting researcher.</li>
-  <li><b style="color:#0366d6;">[Jan. 2024]</b> Two papers accepted at <i>IGARSS 2024</i>.</li>
+  <li><b>[Feb. 2025]</b> Submitted one paper to <i>IEEE GRSL</i>.</li>
+  <li><b>[Nov. 2024]</b> Presented at <i>TELFOR 2024</i>, Belgrade.</li>
+  <li><b>[Oct. 2024]</b> Submitted one paper to <i>Knowledge-based Systems</i>.</li>
+  <li><b>[Oct. 2024]</b> One paper accepted by <i>TELFOR 2024</i>.</li>
+  <li><b>[Sep. 2024]</b> One paper accepted by <i>IEEE JSTARS</i>.</li>
+  <li><b>[Aug. 2024]</b> One paper accepted by <i>Neural Networks</i>.</li>
+  <li><b>[Jun. 2024]</b> One paper accepted by <i>Neurocomputing</i>.</li>
+  <li><b>[May. 2024]</b> Joined University of Montenegro TFSA group as a visiting researcher.</li>
+  <li><b>[Jan. 2024]</b> Two papers accepted at <i>IGARSS 2024</i>.</li>
 </ul>
 
 </div>
