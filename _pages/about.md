@@ -128,7 +128,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 7 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
-  <img src="images/lshap.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/lshap2.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Manifold-based Shapley for SAR Recognition Network Explanation</i></b><br>
