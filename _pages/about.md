@@ -62,7 +62,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 1 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/synthesis_despeckling_part_00.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/SR.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b><br>
@@ -73,7 +73,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 2 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/GUD_flowchat.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/GUD.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</i></b><br>
@@ -84,7 +84,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 3 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/poc_flowchart.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/poc.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
     <b><i>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</i></b><br>
@@ -96,7 +96,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 4 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/mulit-class_00.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/RPGV.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
@@ -107,7 +107,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 5 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/shapley_nn2024.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/lshap_fchart.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
@@ -119,7 +119,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 6 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/API-SAR flowchat_00.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/API-SAR.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</i></b><br>
@@ -130,7 +130,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 7 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/feature_manifold_00.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/lshap.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Manifold-based Shapley for SAR Recognition Network Explanation</i></b><br>
@@ -141,7 +141,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <!-- Paper 8 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid #e1e4e8; border-radius: 10px; background-color: #fafafa;">
-  <img src="images/Regional_restoration_00.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <img src="images/RDDPM.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</i></b><br>
