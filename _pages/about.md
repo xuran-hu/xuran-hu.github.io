@@ -60,14 +60,28 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 10px;">
-      <img src="images/shapley_nn2024.png" width="140">
+    <td style="width: 160px; padding: 5px;">
+      <img src="images/API-SAR flowchat_00.png" width="160">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</i></b><br>
       <i>Neurocomputing</i>, 2024<br>
       📄 <a href="https://doi.org/10.1016/j.neucom.2024.128137">[Paper]</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 160px; padding: 5px;">
+      <img src="images/mulit-class_00.png" width="160">
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
+      <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
+      <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br>
+      📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922">[Paper]</a>
     </td>
   </tr>
 </table>
