@@ -26,7 +26,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ## 📰 News
 
-<div style="max-height: 200px; overflow-y: auto; padding: 0.75em 1em; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fcfcfc; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 1.6; color: #333;">
+<div style="max-height: 200px; overflow-y: auto; padding: 0.75em 1em; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fcfcfc; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 15px; line-height: 1.6; color: #333;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li><b>[Feb. 2025]</b> Submitted one paper to <i>IEEE GRSL</i>.</li>
