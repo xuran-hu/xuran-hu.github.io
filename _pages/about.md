@@ -44,8 +44,8 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 140px; padding: 5px;">
-      <img src="images/shapley_nn2024.png" width="140">
+    <td style="width: 160px; padding: 5px;">
+      <img src="images/shapley_nn2024.png" width="160">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
