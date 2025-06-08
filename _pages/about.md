@@ -45,15 +45,29 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 120px; padding: 10px;">
-      <img src="images/shapley_nn2024.png" width="120">
+      <img src="images/shapley_nn2024.png" width="140">
     </td>
     <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu.</b>, Mingzhe Zhu.*, Zhenpeng Feng., Ljubiša Stanković.<br>
+      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
       <i>Neural Networks</i>, 2024<br>
       📄 <a href="https://doi.org/10.1016/j.neunet.2024.106634">[Paper]</a>
       &nbsp;|&nbsp;
       💻 <a href="https://github.com/Teriri1999/Latent-SHAP">[Code]</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 120px; padding: 10px;">
+      <img src="images/shapley_nn2024.png" width="140">
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
+      <b><i>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</i></b><br>
+      <i>Neurocomputing</i>, 2024<br>
+      📄 <a href="https://doi.org/10.1016/j.neucom.2024.128137">[Paper]</a>
     </td>
   </tr>
 </table>
