@@ -44,7 +44,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 160px; padding: 5px;">
+    <td style="height: 120px; padding: 5px;">
       <!-- <img src="images/poc_flowchart.png" width="160"> -->
       <img src="images/poc_flowchart.png" height="120">
     </td>
@@ -61,7 +61,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 160px; padding: 5px;">
+    <td style="height: 120px; padding: 5px;">
       <img src="images/mulit-class_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -75,7 +75,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 160px; padding: 5px;">
+    <td style="height: 120px; padding: 5px;">
       <img src="images/shapley_nn2024.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -91,7 +91,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 160px; padding: 5px;">
+    <td style="height: 120px; padding: 5px;">
       <img src="images/API-SAR flowchat_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -105,7 +105,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 160px; padding: 5px;">
+    <td style="height: 120px; padding: 5px;">
       <img src="images/feature_manifold_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -119,7 +119,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 160px; padding: 5px;">
+    <td style="height: 120px; padding: 5px;">
       <img src="images/Regional_restoration_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
