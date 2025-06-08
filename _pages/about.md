@@ -12,11 +12,10 @@ author_profile: True
 
 ## 🧑‍💻 About Me
 
-Hi! I'm a third-year Master's student at the School of Electronic Engineering, Xidian University, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from Xidian University.  
+Hi! I'm a third-year Master's student at the School of Electronic Engineering, **Xidian University**, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from **Xidian University**.  
 My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.  
 
-From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at the University of Montenegro as a visiting researcher, under the supervision of [Prof. Ljubisa Stanković](https://tfsa.ucg.ac.me/ljubisa.html).  
-During this exchange, I focused on combining compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
+From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at **University of Montenegro** as a visiting researcher, under the supervision of [Prof. Ljubisa Stanković](https://tfsa.ucg.ac.me/ljubisa.html). During this exchange, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
 
 
 ---
@@ -25,12 +24,15 @@ During this exchange, I focused on combining compressive sensing theory and inte
 
 <div style="max-height: 200px; overflow-y: auto; padding: 0.5em; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f9f9f9;">
 
-- <b>[Jun. 2024]</b> Received the <b>China National Scholarship</b> (Top National Honor for Students).<br>
-- <b>[May. 2024]</b> Two papers accepted at <b>IGARSS 2024</b> (1 Oral, 1 Poster).<br>
-- <b>[May. 2024]</b> Joined <b>University of Montenegro</b> as an exchange researcher.<br>
-- <b>[Apr. 2024]</b> One paper accepted by <b>Neural Networks (IF=7.8)</b>.<br>
-- <b>[Mar. 2024]</b> Submitted work on interpretable SAR image processing to <b>KBS</b>.<br>
-- <b>[Nov. 2024]</b> Will present at <b>TELFOR 2024</b>, Belgrade.<br>
+- <b>[Feb. 2025]</b> Submitted one paper to IEEE GRSL.<br>
+- <b>[Nov. 2024]</b> Presented at TELFOR 2024, Belgrade.<br>
+- <b>[Oct. 2024]</b> Submitted one paper to Knowledge-based System.<br>
+- <b>[Oct. 2024]</b> One conference paper accepted by TELFOR 2024.<br>
+- <b>[Sep. 2024]</b> One paper accepted by IEEE JSTARS.<br>
+- <b>[Aug. 2024]</b> One paper accepted by Neural Networks.<br>
+- <b>[Jun. 2024]</b> One paper accepted by Neurocomputing.<br>
+- <b>[May. 2024]</b> Joined University of Montenegro TFSA group as a visiting researcher.<br>
+- <b>[Jan. 2024]</b> Two conference papers accepted at IGARSS 2024.<br>
 
 </div>
 
