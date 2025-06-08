@@ -10,6 +10,7 @@ author_profile: True
 </style>
 
 
+<a id="about"></a>
 ## 🧑‍💻 About Me
 
 <div style="font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
@@ -24,6 +25,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ---
 
+<a id="news"></a>
 ## 📰 News
 
 <div style="max-height: 200px; overflow-y: auto; padding: 0.75em 1em;
@@ -51,6 +53,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ---
 
+<a id="publications"></a>
 ## 📄 Publications
 
 <table>
@@ -170,6 +173,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ---
 
+<a id="awards"></a>
 ## 🏆 Awards
 
 <div style="font-size: 16px; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
