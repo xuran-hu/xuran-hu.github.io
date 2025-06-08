@@ -66,7 +66,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b><br>
-    Submitted to <i>Knowledge-based System</i>, 2024
+    Submitted to <i>IEEE Geoscience and Remote Sensing Letter</i>, 2024
     📄 <a href="https://arxiv.org/pdf/2412.18121" target="_blank">arXiv</a>
   </div>
 </div>
