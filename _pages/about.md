@@ -44,7 +44,33 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 5px;">
+    <td style="width: 160px; padding: 5px;">
+      <img src="images/synthesis_despeckling_part_00.png" height="120">
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
+      <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b><br>
+      📄 <a href="https://arxiv.org/pdf/2412.18121">[arXiv]</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 160px; padding: 5px;">
+      <img src="images/GUD_flowchat.png" height="120">
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      <b>Xuran Hu</b>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković<br>
+      <b><i>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</i></b><br>
+      📄 <a href="https://arxiv.org/pdf/2408.01553">[arXiv]</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 160px; padding: 5px;">
       <!-- <img src="images/poc_flowchart.png" width="160"> -->
       <img src="images/poc_flowchart.png" height="120">
     </td>
@@ -61,7 +87,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 5px;">
+    <td style="width: 160px; padding: 5px;">
       <img src="images/mulit-class_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -75,7 +101,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 5px;">
+    <td style="width: 160px; padding: 5px;">
       <img src="images/shapley_nn2024.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -91,7 +117,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 5px;">
+    <td style="width: 160px; padding: 5px;">
       <img src="images/API-SAR flowchat_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -105,7 +131,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 5px;">
+    <td style="width: 160px; padding: 5px;">
       <img src="images/feature_manifold_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -119,7 +145,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 5px;">
+    <td style="width: 160px; padding: 5px;">
       <img src="images/Regional_restoration_00.png" height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
@@ -130,8 +156,6 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
