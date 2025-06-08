@@ -42,96 +42,91 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ## 📄 Publications
 
-<div style="font-size: 15px; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
-
-<!-- Paper 1 -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 12px;">
+<table>
   <tr>
-    <td style="width: 130px; padding: 6px; vertical-align: top;">
-      <img src="images/poc_flowchart.png" style="height: 120px; width: auto; display: block; margin: auto; border-radius: 6px;">
+    <td style="width: 120px; padding: 5px;">
+      <!-- <img src="images/poc_flowchart.png" width="160"> -->
+      <img src="images/poc_flowchart.png" height="120">
     </td>
-    <td style="padding: 10px; vertical-align: top;">
+    <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
       <b><i>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</i></b><br>
-      <i>IEEE Telecommunications Forum</i>, 2024<br><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10819067" target="_blank" style="display:inline-block; padding:6px 14px; margin-right:8px; background-color:#0366d6; color:white; font-size:14px; text-decoration:none; border-radius:6px;">📄 Paper</a>
-      <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition" target="_blank" style="display:inline-block; padding:6px 14px; background-color:#2da44e; color:white; font-size:14px; text-decoration:none; border-radius:6px;">💻 Code</a>
+      <i>IEEE Telecommunications Forum</i>, 2024<br>
+      📄 <a href="https://ieeexplore.ieee.org/abstract/document/10819067">[Paper]</a>
+      &nbsp;|&nbsp;
+      💻 <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition">[Code]</a>
     </td>
   </tr>
 </table>
 
-<!-- Paper 2 -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 12px;">
+<table>
   <tr>
-    <td style="width: 130px; padding: 6px; vertical-align: top;">
-      <img src="images/mulit-class_00.png" style="height: 120px; width: auto; display: block; margin: auto; border-radius: 6px;">
+    <td style="width: 120px; padding: 5px;">
+      <img src="images/mulit-class_00.png" height="120">
     </td>
-    <td style="padding: 10px; vertical-align: top;">
+    <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
-      <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br><br>
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922" target="_blank" style="display:inline-block; padding:6px 14px; background-color:#0366d6; color:white; font-size:14px; text-decoration:none; border-radius:6px;">📄 Paper</a>
+      <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br>
+      📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922">[Paper]</a>
     </td>
   </tr>
 </table>
 
-<!-- Paper 3 -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 12px;">
+<table>
   <tr>
-    <td style="width: 130px; padding: 6px; vertical-align: top;">
-      <img src="images/shapley_nn2024.png" style="height: 120px; width: auto; display: block; margin: auto; border-radius: 6px;">
+    <td style="width: 120px; padding: 5px;">
+      <img src="images/shapley_nn2024.png" height="120">
     </td>
-    <td style="padding: 10px; vertical-align: top;">
+    <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
-      <i>Neural Networks</i>, 2024<br><br>
-      <a href="https://doi.org/10.1016/j.neunet.2024.106634" target="_blank" style="display:inline-block; padding:6px 14px; margin-right:8px; background-color:#0366d6; color:white; font-size:14px; text-decoration:none; border-radius:6px;">📄 Paper</a>
-      <a href="https://github.com/Teriri1999/Latent-SHAP" target="_blank" style="display:inline-block; padding:6px 14px; background-color:#2da44e; color:white; font-size:14px; text-decoration:none; border-radius:6px;">💻 Code</a>
+      <i>Neural Networks</i>, 2024<br>
+      📄 <a href="https://doi.org/10.1016/j.neunet.2024.106634">[Paper]</a>
+      &nbsp;|&nbsp;
+      💻 <a href="https://github.com/Teriri1999/Latent-SHAP">[Code]</a>
     </td>
   </tr>
 </table>
 
-<!-- Paper 4 -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 12px;">
+<table>
   <tr>
-    <td style="width: 130px; padding: 6px; vertical-align: top;">
-      <img src="images/API-SAR flowchat_00.png" style="height: 120px; width: auto; display: block; margin: auto; border-radius: 6px;">
+    <td style="width: 120px; padding: 5px;">
+      <img src="images/API-SAR flowchat_00.png" height="120">
     </td>
-    <td style="padding: 10px; vertical-align: top;">
+    <td style="vertical-align: top; padding: 10px;">
       Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</i></b><br>
-      <i>Neurocomputing</i>, 2024<br><br>
-      <a href="https://doi.org/10.1016/j.neucom.2024.128137" target="_blank" style="display:inline-block; padding:6px 14px; background-color:#0366d6; color:white; font-size:14px; text-decoration:none; border-radius:6px;">📄 Paper</a>
+      <i>Neurocomputing</i>, 2024<br>
+      📄 <a href="https://doi.org/10.1016/j.neucom.2024.128137">[Paper]</a>
     </td>
   </tr>
 </table>
 
-<!-- Paper 5 -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 12px;">
+<table>
   <tr>
-    <td style="width: 130px; padding: 6px; vertical-align: top;">
-      <img src="images/feature_manifold_00.png" style="height: 120px; width: auto; display: block; margin: auto; border-radius: 6px;">
+    <td style="width: 120px; padding: 5px;">
+      <img src="images/feature_manifold_00.png" height="120">
     </td>
-    <td style="padding: 10px; vertical-align: top;">
+    <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>Manifold-based Shapley for SAR Recognition Network Explanation</i></b><br>
-      <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br><br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10642512" target="_blank" style="display:inline-block; padding:6px 14px; background-color:#0366d6; color:white; font-size:14px; text-decoration:none; border-radius:6px;">📄 Paper</a>
+      <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
+      📄 <a href="https://ieeexplore.ieee.org/abstract/document/10642512">[Paper]</a>
     </td>
   </tr>
 </table>
 
-<!-- Paper 6 -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 12px;">
+<table>
   <tr>
-    <td style="width: 130px; padding: 6px; vertical-align: top;">
-      <img src="images/Regional_restoration_00.png" style="height: 120px; width: auto; display: block; margin: auto; border-radius: 6px;">
+    <td style="width: 120px; padding: 5px;">
+      <img src="images/Regional_restoration_00.png" height="120">
     </td>
-    <td style="padding: 10px; vertical-align: top;">
+    <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</i></b><br>
-      <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br><br>
-      <a href="https://ieeexplore.ieee.org/document/10641283" target="_blank" style="display:inline-block; padding:6px 14px; background-color:#0366d6; color:white; font-size:14px; text-decoration:none; border-radius:6px;">📄 Paper</a>
+      <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
+      📄 <a href="https://ieeexplore.ieee.org/document/10641283">[Paper]</a>
     </td>
   </tr>
 </table>
