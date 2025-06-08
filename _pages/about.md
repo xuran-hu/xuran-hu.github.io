@@ -11,7 +11,7 @@ author_profile: True
 
 
 <a id="about"></a>
-## 🧑‍💻 About Me
+## 👤 About Me
 
 <div style="font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
 
