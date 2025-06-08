@@ -12,7 +12,7 @@ author_profile: True
 
 ## 🧑‍💻 About Me
 
-<div style="font-size: 18px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
+<div style="font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
 
 Hi! I'm a third-year Master's student at the School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from <b>Xidian University</b>. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
 
@@ -165,8 +165,14 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ## 🏆 Awards
 
-- **China National Scholarship**, Oct. 2024
-- **Special Prize**, Huiding Scholarship (Social Scholarship), Dec. 2024
-- **Special Prize**, Xidian University Academic Scholarship, Sep. 2022
+<div style="font-size: 16px; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
+
+<ul>
+  <li><b>China National Scholarship</b>, Oct. 2024</li>
+  <li><b>Special Prize</b>, Huiding Scholarship (Social Scholarship), Dec. 2024</li>
+  <li><b>Special Prize</b>, Xidian University Academic Scholarship, Sep. 2022</li>
+</ul>
+
+</div>
 
 
