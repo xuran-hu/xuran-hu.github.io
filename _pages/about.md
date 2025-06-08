@@ -42,21 +42,44 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ## 📄 Publications
 
-<table>
+<div style="font-size: 16px; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
+
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 120px; padding: 10px;">
-      <img src="images/shapley_nn2024.png" width="120">
+    <td style="width: 130px; padding: 10px; vertical-align: top;">
+      <img src="images/shapley_nn2024.png" style="max-width: 100%; height: auto; border-radius: 6px;">
     </td>
-    <td style="vertical-align: top; padding: 10px;">
+    <td style="padding: 10px; vertical-align: top;">
       <b>Hu, X.</b>, Zhu, M.*, Feng, Z., Stanković, L.<br>
       <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
-      <i>Neural Networks</i> (JCR Q1, IF=7.8), 2024<br>
-      📄 <a href="https://doi.org/10.1016/j.neunet.2024.106634">[Paper]</a>
-      &nbsp;|&nbsp;
-      💻 <a href="https://github.com/Teriri1999/Latent-SHAP">[Code]</a>
+      <i>Neural Networks</i> (JCR Q1, IF=7.8), 2024<br><br>
+
+      <a href="https://doi.org/10.1016/j.neunet.2024.106634" target="_blank" style="
+        display: inline-block;
+        padding: 6px 14px;
+        margin-right: 8px;
+        background-color: #0366d6;
+        color: white;
+        font-size: 14px;
+        text-decoration: none;
+        border-radius: 6px;
+      ">📄 Paper</a>
+
+      <a href="https://github.com/Teriri1999/Latent-SHAP" target="_blank" style="
+        display: inline-block;
+        padding: 6px 14px;
+        background-color: #2da44e;
+        color: white;
+        font-size: 14px;
+        text-decoration: none;
+        border-radius: 6px;
+      ">💻 Code</a>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
