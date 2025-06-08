@@ -14,8 +14,7 @@ author_profile: True
 
 <div style="font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
 
-Hi! I'm a third-year Master's student at the School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from <b>Xidian University</b>.<br>
-My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
+Hi! I'm a third-year Master's student at the School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from <b>Xidian University</b>.<br> My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
 
 From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at <b>University of Montenegro</b> as a visiting researcher, under the supervision of 
 <a href="https://tfsa.ucg.ac.me/ljubisa.html" target="_blank">Prof. Ljubiša Stanković</a>. During this exchange, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
@@ -166,7 +165,13 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ## 🏆 Awards
 
+<div style="font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
+
 - **China National Scholarship**, Oct. 2024
 - **Special Prize**, Huiding Scholarship (Social Scholarship), Dec. 2024
 - **Special Prize**, Xidian University Academic Scholarship, Sep. 2022
+
+</div>
+
+
 
