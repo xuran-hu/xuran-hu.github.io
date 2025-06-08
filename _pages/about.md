@@ -26,7 +26,14 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ## 📰 News
 
-<div style="max-height: 200px; overflow-y: auto; padding: 0.75em 1em; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fcfcfc; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 15px; line-height: 1.6; color: #333;">
+<div style="max-height: 200px; overflow-y: auto; padding: 0.75em 1em;
+  border: 1px solid var(--color-border-default);
+  border-radius: 8px;
+  background-color: var(--color-canvas-subtle);
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--color-fg-default);">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li><b>[Feb. 2025]</b> Submitted one paper to <i>IEEE GRSL</i>.</li>
@@ -39,8 +46,8 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <li><b>[May. 2024]</b> Joined University of Montenegro TFSA group as a visiting researcher.</li>
   <li><b>[Jan. 2024]</b> Two papers accepted at <i>IGARSS 2024</i>.</li>
 </ul>
-
 </div>
+
 
 ---
 
