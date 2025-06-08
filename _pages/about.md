@@ -65,7 +65,8 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <img src="images/synthesis_despeckling_part_00.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
-    <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b>
+    <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b><br>
+    Submitted to <i>Knowledge-based System</i>, 2024
     📄 <a href="https://arxiv.org/pdf/2412.18121" target="_blank">arXiv</a>
   </div>
 </div>
@@ -75,7 +76,8 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <img src="images/GUD_flowchat.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković<br>
-    <b><i>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</i></b>
+    <b><i>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</i></b><br>
+    Submitted to <i>Knowledge-based System</i>, 2024 
     📄 <a href="https://arxiv.org/pdf/2408.01553" target="_blank">arXiv</a>
   </div>
 </div>
