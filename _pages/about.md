@@ -11,22 +11,22 @@ author_profile: True
 
 
 # About me
-Hello, I'm a third-year Master's student at Xidian University, School of Electronic Engineering, under the supervision of Prof. Mingzhe Zhu. I previously earned my bachelor's degree in Xidian University. I'm interested in explainable artificial intelligence and its application in remote sensing.
-📧 Email: XuRanHu@stu.xidian.edu.cn  
-📍 Currently pursuing Master's in Electronics Science and Technology at Xidian University
+Hi! I'm a third-year Master's student at the School of Electronic Engineering, Xidian University, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from Xidian University.  
+My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing. I also interested in remote sensing foundation model and self-supervised learning.
+
 
 ---
 
 ## 📰 News
 
-<div style="max-height: 140px; overflow-y: auto; padding: 0.5em; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f9f9f9;">
+<div style="max-height: 200px; overflow-y: auto; padding: 0.5em; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f9f9f9;">
 
-- 🏅 <b>[Jun. 2024]</b> Received the <b>China National Scholarship</b> (Top National Honor for Students).
-- 📄 <b>[May. 2024]</b> Two papers accepted at <b>IGARSS 2024</b> (1 Oral, 1 Poster).
-- 🌍 <b>[May. 2024]</b> Joined <b>University of Montenegro</b> as an exchange researcher.
-- 📝 <b>[Apr. 2024]</b> One paper accepted by <b>Neural Networks (IF=7.8)</b>.
-- 📖 <b>[Mar. 2024]</b> Submitted work on interpretable SAR image processing to <b>KBS</b>.
-- 🎤 <b>[Nov. 2024]</b> Will present at <b>TELFOR 2024</b>, Belgrade.
+- 🏅 <b>[Jun. 2024]</b> Received the <b>China National Scholarship</b> (Top National Honor for Students).</b><br>
+- 📄 <b>[May. 2024]</b> Two papers accepted at <b>IGARSS 2024</b> (1 Oral, 1 Poster).</b><br>
+- 🌍 <b>[May. 2024]</b> Joined <b>University of Montenegro</b> as an exchange researcher.</b><br>
+- 📝 <b>[Apr. 2024]</b> One paper accepted by <b>Neural Networks (IF=7.8)</b>.</b><br>
+- 📖 <b>[Mar. 2024]</b> Submitted work on interpretable SAR image processing to <b>KBS</b>.</b><br>
+- 🎤 <b>[Nov. 2024]</b> Will present at <b>TELFOR 2024</b>, Belgrade.</b><br>
 
 </div>
 
