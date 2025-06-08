@@ -45,7 +45,38 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/shapley_nn2024.png" width="160">
+      <!-- <img src="images/poc_flowchart.png" width="160"> -->
+      <img src="images/poc_flowchart.png" style="height: 120px; width: auto; border-radius: 6px;">
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
+      <b><i>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</i></b><br>
+      <i>IEEE Telecommunications Forum</i>, 2024<br>
+      📄 <a href="https://ieeexplore.ieee.org/abstract/document/10819067">[Paper]</a>
+      &nbsp;|&nbsp;
+      💻 <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition">[Code]</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 160px; padding: 5px;">
+      <img src="images/mulit-class_00.png" style="height: 120px; width: auto; border-radius: 6px;">
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
+      <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
+      <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br>
+      📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922">[Paper]</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="width: 160px; padding: 5px;">
+      <img src="images/shapley_nn2024.png" style="height: 120px; width: auto; border-radius: 6px;">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
@@ -61,7 +92,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/API-SAR flowchat_00.png" width="160">
+      <img src="images/API-SAR flowchat_00.png" style="height: 120px; width: auto; border-radius: 6px;">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
@@ -75,21 +106,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/mulit-class_00.png" width="160">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
-      <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
-      <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br>
-      📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922">[Paper]</a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/feature_manifold_00.png" width="160">
+      <img src="images/feature_manifold_00.png" style="height: 120px; width: auto; border-radius: 6px;">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
@@ -103,29 +120,13 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/Regional_restoration_00.png" width="160">
+      <img src="images/Regional_restoration_00.png" style="height: 120px; width: auto; border-radius: 6px;">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
       <b><i>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</i></b><br>
       <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
       📄 <a href="https://ieeexplore.ieee.org/document/10641283">[Paper]</a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="width: 160px; padding: 5px;">
-      <img src="images/poc_flowchart.png" width="160">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
-      <b><i>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</i></b><br>
-      <i>IEEE Telecommunications Forum</i>, 2024<br>
-      📄 <a href="https://ieeexplore.ieee.org/abstract/document/10819067">[Paper]</a>
-      &nbsp;|&nbsp;
-      💻 <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition">[Code]</a>
     </td>
   </tr>
 </table>
