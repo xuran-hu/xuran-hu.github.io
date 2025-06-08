@@ -44,7 +44,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 <table>
   <tr>
-    <td style="width: 120px; padding: 10px;">
+    <td style="width: 140px; padding: 5px;">
       <img src="images/shapley_nn2024.png" width="140">
     </td>
     <td style="vertical-align: top; padding: 10px;">
