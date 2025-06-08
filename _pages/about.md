@@ -46,7 +46,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <tr>
     <td style="width: 160px; padding: 5px;">
       <!-- <img src="images/poc_flowchart.png" width="160"> -->
-      <img src="images/poc_flowchart.png" style="height: 120px; width: auto;">
+      <img src="images/poc_flowchart.png" "height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
@@ -62,7 +62,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/mulit-class_00.png" style="height: 120px; width: auto;">
+      <img src="images/mulit-class_00.png" "height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
@@ -76,7 +76,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/shapley_nn2024.png" style="height: 120px; width: auto;">
+      <img src="images/shapley_nn2024.png" "height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
@@ -92,7 +92,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/API-SAR flowchat_00.png" style="height: 120px; width: auto;">
+      <img src="images/API-SAR flowchat_00.png" "height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
@@ -106,7 +106,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/feature_manifold_00.png" style="height: 120px; width: auto;">
+      <img src="images/feature_manifold_00.png" "height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
@@ -120,7 +120,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <table>
   <tr>
     <td style="width: 160px; padding: 5px;">
-      <img src="images/Regional_restoration_00.png" style="height: 120px; width: auto;">
+      <img src="images/Regional_restoration_00.png" "height="120">
     </td>
     <td style="vertical-align: top; padding: 10px;">
       <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
