@@ -22,19 +22,22 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 
 ## 📰 News
 
-<div style="max-height: 200px; overflow-y: auto; padding: 0.5em; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f9f9f9;">
+<div style="max-height: 200px; overflow-y: auto; padding: 0.75em 1em; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fcfcfc; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 1.6; color: #333;">
 
-- <b>[Feb. 2025]</b> Submitted one paper to IEEE GRSL.<br>
-- <b>[Nov. 2024]</b> Presented at TELFOR 2024, Belgrade.<br>
-- <b>[Oct. 2024]</b> Submitted one paper to Knowledge-based System.<br>
-- <b>[Oct. 2024]</b> One conference paper accepted by TELFOR 2024.<br>
-- <b>[Sep. 2024]</b> One paper accepted by IEEE JSTARS.<br>
-- <b>[Aug. 2024]</b> One paper accepted by Neural Networks.<br>
-- <b>[Jun. 2024]</b> One paper accepted by Neurocomputing.<br>
-- <b>[May. 2024]</b> Joined University of Montenegro TFSA group as a visiting researcher.<br>
-- <b>[Jan. 2024]</b> Two conference papers accepted at IGARSS 2024.<br>
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><b style="color:#0366d6;">[Feb. 2025]</b> Submitted one paper to <i>IEEE GRSL</i>.</li>
+  <li><b style="color:#0366d6;">[Nov. 2024]</b> Presented at <i>TELFOR 2024</i>, Belgrade.</li>
+  <li><b style="color:#0366d6;">[Oct. 2024]</b> Submitted one paper to <i>Knowledge-based Systems</i>.</li>
+  <li><b style="color:#0366d6;">[Oct. 2024]</b> One paper accepted by <i>TELFOR 2024</i>.</li>
+  <li><b style="color:#0366d6;">[Sep. 2024]</b> One paper accepted by <i>IEEE JSTARS</i>.</li>
+  <li><b style="color:#0366d6;">[Aug. 2024]</b> One paper accepted by <i>Neural Networks</i>.</li>
+  <li><b style="color:#0366d6;">[Jun. 2024]</b> One paper accepted by <i>Neurocomputing</i>.</li>
+  <li><b style="color:#0366d6;">[May. 2024]</b> Joined University of Montenegro TFSA group as a visiting researcher.</li>
+  <li><b style="color:#0366d6;">[Jan. 2024]</b> Two papers accepted at <i>IGARSS 2024</i>.</li>
+</ul>
 
 </div>
+
 
 
 ## 📄 Publications
