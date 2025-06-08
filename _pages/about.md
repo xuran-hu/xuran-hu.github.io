@@ -10,9 +10,13 @@ author_profile: True
 </style>
 
 
-# About me
+## 🧑‍💻 About Me
+
 Hi! I'm a third-year Master's student at the School of Electronic Engineering, Xidian University, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from Xidian University.  
-My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing. I also interested in remote sensing foundation model and self-supervised learning.
+My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.  
+
+From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at the University of Montenegro as a visiting researcher, under the supervision of [Prof. Ljubisa Stanković](https://tfsa.ucg.ac.me/ljubisa.html).  
+During this exchange, I focused on combining compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
 
 
 ---
@@ -21,28 +25,15 @@ My research interests lie in explainable artificial intelligence (XAI) and its a
 
 <div style="max-height: 200px; overflow-y: auto; padding: 0.5em; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f9f9f9;">
 
-- 🏅 <b>[Jun. 2024]</b> Received the <b>China National Scholarship</b> (Top National Honor for Students).</b><br>
-- 📄 <b>[May. 2024]</b> Two papers accepted at <b>IGARSS 2024</b> (1 Oral, 1 Poster).</b><br>
-- 🌍 <b>[May. 2024]</b> Joined <b>University of Montenegro</b> as an exchange researcher.</b><br>
-- 📝 <b>[Apr. 2024]</b> One paper accepted by <b>Neural Networks (IF=7.8)</b>.</b><br>
-- 📖 <b>[Mar. 2024]</b> Submitted work on interpretable SAR image processing to <b>KBS</b>.</b><br>
-- 🎤 <b>[Nov. 2024]</b> Will present at <b>TELFOR 2024</b>, Belgrade.</b><br>
+- <b>[Jun. 2024]</b> Received the <b>China National Scholarship</b> (Top National Honor for Students).<br>
+- <b>[May. 2024]</b> Two papers accepted at <b>IGARSS 2024</b> (1 Oral, 1 Poster).<br>
+- <b>[May. 2024]</b> Joined <b>University of Montenegro</b> as an exchange researcher.<br>
+- <b>[Apr. 2024]</b> One paper accepted by <b>Neural Networks (IF=7.8)</b>.<br>
+- <b>[Mar. 2024]</b> Submitted work on interpretable SAR image processing to <b>KBS</b>.<br>
+- <b>[Nov. 2024]</b> Will present at <b>TELFOR 2024</b>, Belgrade.<br>
 
 </div>
 
----
-
-## 🎓 Education
-
-- **Xidian University**, Xi’an, China  
-  *Master of Electronics Science and Technology (Recommended)*  
-  Sep. 2022 – Jun. 2025 (Expected)  
-
-- **Xidian University**, Xi’an, China  
-  *Bachelor of Electronics Engineering*  
-  Sep. 2018 – Jun. 2022  
-
----
 
 ## 📄 Publications
 
