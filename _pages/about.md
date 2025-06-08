@@ -64,7 +64,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</i></b><br>
-    Submitted to <i>IEEE Geoscience and Remote Sensing Letters</i><br>
+    Submitted to <i>IEEE Geoscience and Remote Sensing Letters</i>
     📄 <a href="https://arxiv.org/pdf/2412.18121" target="_blank">arXiv</a>
   </div>
 </div>
@@ -75,7 +75,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</i></b><br>
-    Submitted to <i>Knowledge-based Systems</i><br>
+    Submitted to <i>Knowledge-based Systems</i>
     📄 <a href="https://arxiv.org/pdf/2408.01553" target="_blank">arXiv</a>
   </div>
 </div>
@@ -86,7 +86,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković<br>
     <b><i>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</i></b><br>
-    <i>IEEE Telecommunications Forum</i>, 2024<br>
+    <i>IEEE Telecommunications Forum</i>, 2024
     📄 <a href="https://ieeexplore.ieee.org/abstract/document/10819067" target="_blank">Paper</a> |
     💻 <a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition" target="_blank">Code</a>
   </div>
@@ -98,7 +98,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</i></b><br>
-    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024<br>
+    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2024
     📄 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922" target="_blank">Paper</a>
   </div>
 </div>
@@ -109,7 +109,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Manifold-based Shapley Explanations for High Dimensional Correlated Features</i></b><br>
-    <i>Neural Networks</i>, 2024<br>
+    <i>Neural Networks</i>, 2024
     📄 <a href="https://doi.org/10.1016/j.neunet.2024.106634" target="_blank">Paper</a> |
     💻 <a href="https://github.com/Teriri1999/Latent-SHAP" target="_blank">Code</a>
   </div>
@@ -121,7 +121,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     Mingzhe Zhu, <b>Xuran Hu*</b>, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</i></b><br>
-    <i>Neurocomputing</i>, 2024<br>
+    <i>Neurocomputing</i>, 2024
     📄 <a href="https://doi.org/10.1016/j.neucom.2024.128137" target="_blank">Paper</a>
   </div>
 </div>
@@ -132,7 +132,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>Manifold-based Shapley for SAR Recognition Network Explanation</i></b><br>
-    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
+    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024
     📄 <a href="https://ieeexplore.ieee.org/abstract/document/10642512" target="_blank">Paper</a>
   </div>
 </div>
@@ -143,7 +143,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     <b>Xuran Hu</b>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković<br>
     <b><i>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</i></b><br>
-    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024<br>
+    <i>IEEE International Geoscience and Remote Sensing Symposium</i>, 2024
     📄 <a href="https://ieeexplore.ieee.org/document/10641283" target="_blank">Paper</a>
   </div>
 </div>
