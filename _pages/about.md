@@ -1,14 +1,5 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-# 👋 Hi, I'm Xuran Hu (胡旭冉)
-
+# About me
+Hello, I'm a third-year Master's student at Xidian University, School of Electronic Engineering, under the supervision of Prof. Mingzhe Zhu. I previously earned my bachelor's degree in Xidian University. I'm interested in explainable artificial intelligence and its application in remote sensing.
 📧 Email: XuRanHu@stu.xidian.edu.cn  
 📍 Currently pursuing Master's in Electronics Engineering at Xidian University
 
@@ -17,14 +8,12 @@ redirect_from:
 ## 🎓 Education
 
 - **Xidian University**, Xi’an, China  
-  *Master of Electronics Engineering (Recommended)*  
+  *Master of Electronics Science and Technology (Recommended)*  
   Sep. 2022 – Jun. 2025 (Expected)  
-  GPA: 86.3/100 (3.7/4.0)
 
 - **Xidian University**, Xi’an, China  
   *Bachelor of Electronics Engineering*  
   Sep. 2018 – Jun. 2022  
-  GPA: 83.0/100 (3.6/4.0)
 
 ---
 
@@ -70,6 +59,7 @@ redirect_from:
 
 ## 🏆 Awards
 
-- **China National Scholarship**, Oct. 2024  
+- **China National Scholarship**, Oct. 2024
+- **Special Prize**, Huiding Scholarship (Social Scholarship), Dec. 2024
 - **Special Prize**, Xidian University Academic Scholarship, Sep. 2022
 
