@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 # About me
 Hello, I'm a third-year Master's student at Xidian University, School of Electronic Engineering, under the supervision of Prof. Mingzhe Zhu. I previously earned my bachelor's degree in Xidian University. I'm interested in explainable artificial intelligence and its application in remote sensing.
 📧 Email: XuRanHu@stu.xidian.edu.cn  
