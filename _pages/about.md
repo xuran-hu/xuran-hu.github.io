@@ -6,14 +6,27 @@ author_profile: True
 ---
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&family=Poppins:wght@400;600&display=swap');
+
+body, div, p, ul, li, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', 'Nunito', 'Segoe UI', 'Helvetica Neue', sans-serif !important;
+}
+
+a {
+  text-decoration: none;
+  color: #5c6bc0;
+}
+a:hover {
+  color: #ab47bc;
+}
+
 .page__title { display: none; }
 </style>
-
 
 <a id="about"></a>
 ## 👤 About Me
 
-<div style="font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
+<div style="font-size: 16px; line-height: 1.6;">
 
 Hi! I'm a third-year Master's student at the School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from <b>Xidian University</b>. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
 
@@ -21,7 +34,6 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <a href="https://tfsa.ucg.ac.me/ljubisa.html" target="_blank">Ljubiša Stanković</a>. During this exchange, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
 
 </div>
-
 
 ---
 
@@ -32,10 +44,8 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   border: 1px solid var(--color-border-default);
   border-radius: 8px;
   background-color: var(--color-canvas-subtle);
-  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
   font-size: 15px;
-  line-height: 1.6;
-  color: var(--color-fg-default);">
+  line-height: 1.6;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li><b>[Feb. 2025]</b>  One paper submitted to <i>IEEE GRSL</i>.</li>
@@ -50,13 +60,12 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 </ul>
 </div>
 
-
 ---
 
 <a id="publications"></a>
 ## 📄 Publications
 
-<div style="font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.8;">
+<div style="font-size: 15px; line-height: 1.8;">
 
 <!-- Paper 1 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
@@ -157,7 +166,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <a id="awards"></a>
 ## 🏆 Awards
 
-<div style="font-size: 16px; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
+<div style="font-size: 16px; line-height: 1.6;">
 
 <ul>
   <li><b>China National Scholarship</b>, Oct. 2024</li>
@@ -166,5 +175,4 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 </ul>
 
 </div>
-
 
