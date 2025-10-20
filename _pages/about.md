@@ -28,7 +28,7 @@ a:hover {
 
 <div style="font-size: 16px; line-height: 1.6;">
 
-Hi! I'm a reaearch assistant at <b>HKUST(GZ)</b> AI4City Lab, following Prof. Wufan Zhao. Also, I'm an incoming PhD student at KTH Royal Institute of Technology. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
+Hi! I'm a reaearch assistant at <b>HKUST(GZ)</b> AI4City Lab, following Prof. <a href="https://scholar.google.com/citations?user=SE267o4AAAAJ&hl=en" target="_blank">Wufan Zhao</a>. Also, I'm an incoming PhD student at KTH Royal Institute of Technology. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
 
 I received Master degree at School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from <b>Xidian University</b>. 
 
