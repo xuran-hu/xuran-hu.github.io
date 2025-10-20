@@ -28,10 +28,11 @@ a:hover {
 
 <div style="font-size: 16px; line-height: 1.6;">
 
-Hi! I'm a third-year Master's student at the School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from <b>Xidian University</b>. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
+Hi! I'm a reaearch assistant at <b>HKUST(GZ)</b> AI4City Lab, following Prof. Wufan Zhao. Also, I'm an incoming PhD student at KTH Royal Institute of Technology. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
 
-From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at <b>University of Montenegro</b> as a visiting researcher, under the supervision of Prof.
-<a href="https://tfsa.ucg.ac.me/ljubisa.html" target="_blank">Ljubiša Stanković</a>. During this exchange, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
+I received Master degree at School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. Mingzhe Zhu. I also received my bachelor's degree from <b>Xidian University</b>. 
+
+From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at <b>University of Montenegro</b> as a visiting researcher, under the supervision of Prof. <a href="https://tfsa.ucg.ac.me/ljubisa.html" target="_blank">Ljubiša Stanković</a>. During this exchange, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
 
 </div>
 
@@ -48,9 +49,11 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   line-height: 1.6;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><b>[Feb. 2025]</b>  One paper submitted to <i>IEEE GRSL</i>.</li>
+  <li><b>[Oct. 2025]</b> Joined HKUST(GZ) AI4City Lab as a research assistant.</i>.</li>
+  <li><b>[Oct. 2025]</b> One paper accepted by <i>Knowledge-based Systems</i>.</li>
+  <li><b>[Jun. 2025]</b> Recieved Master degree from Xidian University</i>.</li>
+  <li><b>[Feb. 2025]</b> One paper submitted to <i>IEEE GRSL</i>.</li>
   <li><b>[Nov. 2024]</b> Presented at <i>TELFOR 2024</i>, Belgrade.</li>
-  <li><b>[Oct. 2024]</b> One paper submitted to <i>Knowledge-based Systems</i>.</li>
   <li><b>[Oct. 2024]</b> One paper accepted by <i>TELFOR 2024</i>.</li>
   <li><b>[Sep. 2024]</b> One paper accepted by <i>IEEE JSTARS</i>.</li>
   <li><b>[Aug. 2024]</b> One paper accepted by <i>Neural Networks</i>.</li>
