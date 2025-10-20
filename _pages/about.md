@@ -49,10 +49,10 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   line-height: 1.6;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><b>[Oct. 2025]</b> Joined HKUST(GZ) AI4City Lab as a research assistant.</i>.</li>
+  <li><b>[Oct. 2025]</b> Joined HKUST(GZ) AI4City Lab as a research assistant.</li>
   <li><b>[Oct. 2025]</b> One paper accepted by <i>Knowledge-based Systems</i>.</li>
   <li><b>[Oct. 2025]</b> One paper accepted by <i>Frontiers in Neuroscience</i>.</li>
-  <li><b>[Jun. 2025]</b> Recieved Master degree from Xidian University</i>.</li>
+  <li><b>[Jun. 2025]</b> Recieved Master degree from Xidian University.</li>
   <li><b>[Feb. 2025]</b> One paper submitted to <i>IEEE GRSL</i>.</li>
   <li><b>[Nov. 2024]</b> Presented at <i>TELFOR 2024</i>, Belgrade.</li>
   <li><b>[Oct. 2024]</b> One paper accepted by <i>TELFOR 2024</i>.</li>
