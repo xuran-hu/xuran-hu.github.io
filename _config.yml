@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Xuran Hu"
 title_separator          : "-"
 name                     : &name "Xuran Hu"
-description              : &description "a research assistant at HKUST(GZ)"
+description              : &description "PhD candidate at KTH"
 url                      : https://xuran-hu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuran-hu/xuran-hu.github.io/"
@@ -26,8 +26,8 @@ author:
   name             : "Xuran Hu"
   pronouns         : # example: "she/her"  
   bio              : "GeoAI & XAI"
-  location         : "Guangzhou, China"
-  employer         : "HKUST(GZ)"
+  location         : "Stockholm, Sweden"
+  employer         : "KTH Royal Institute of Technology"
   uri              : # URL
   email            : "shhxr1999@gmail.com" 
 
