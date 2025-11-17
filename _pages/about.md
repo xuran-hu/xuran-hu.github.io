@@ -28,11 +28,11 @@ a:hover {
 
 <div style="font-size: 16px; line-height: 1.6; text-align: justify; text-justify: inter-word;">
 
-Hi! I'm a first year PhD student at Division of Geoinformatics, <b>KTH Royal Institute of Technology</b>, supervised by Prof. <a href="https://scholar.google.com/citations?user=E7dz2H4AAAAJ&hl=en" target="_blank">Yifang Ban</a> and Prof. <a href="https://scholar.google.com/citations?user=Mdq6_jQAAAAJ&hl=en" target="_blank">Andrea Nascetti</a>. Also, I'm a research assistant at <b>HKUST(GZ)</b> AI4City Lab, following Prof. <a href="https://scholar.google.com/citations?user=SE267o4AAAAJ&hl=en" target="_blank">Wufan Zhao</a>. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
+Hi! I'm a first year PhD student at Division of Geoinformatics, <b>KTH Royal Institute of Technology</b>, supervised by Prof. <a href="https://scholar.google.com/citations?user=E7dz2H4AAAAJ&hl=en" target="_blank">Yifang Ban</a> and Prof. <a href="https://scholar.google.com/citations?user=Mdq6_jQAAAAJ&hl=en" target="_blank">Andrea Nascetti</a>. Also, I'm a research assistant at <b>Hong Kong University of Science and Technology (Guangzhou)</b> AI4City Lab, following Prof. <a href="https://scholar.google.com/citations?user=SE267o4AAAAJ&hl=en" target="_blank">Wufan Zhao</a>. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
 
 I received Master degree at School of Electronic Engineering, <b>Xidian University</b>, supervised by Prof. <a href="https://www.researchgate.net/profile/Mingzhe-Zhu-3" target="_blank">Mingzhe Zhu</a>. I also received my bachelor's degree from <b>Xidian University</b>.<br><br>
 
-From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at <b>University of Montenegro</b> as a visiting researcher, under the supervision of Prof. <a href="https://tfsa.ucg.ac.me/ljubisa.html" target="_blank">Ljubiša Stanković</a>. During this exchange, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
+From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at <b>University of Montenegro</b> as a visiting researcher, under the supervision of Prof. <a href="https://tfsa.ucg.ac.me/ljubisa.html" target="_blank">Ljubiša Stanković</a>. During this visiting, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
 
 </div>
 
