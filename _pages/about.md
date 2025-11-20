@@ -77,7 +77,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <img src="images/biomass.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
     <b>Xuran Hu</b><br>
-    <b><i>Causal Attribution of Above-ground Biomass Dynamics in Sweden via Shapley Additive Explanation</i></b><br>
+    <b><i>Causal Attribution of Above-ground Biomass Dynamics in Sweden via SHAP</i></b><br>
     Ready for submitting to <i>Remote Sensing of Environment</i>
   </div>
 </div>
