@@ -26,7 +26,7 @@ a:hover {
 <a id="about"></a>
 ## 👤 About Me
 
-<div style="font-size: 16px; line-height: 1.6; text-align: justify; text-justify: inter-word;">
+<div style="font-size: 16px; line-height: 1.6;">
 
 Hi! I'm a first year PhD student at Division of Geoinformatics, <b>KTH Royal Institute of Technology</b>, supervised by Prof. <a href="https://scholar.google.com/citations?user=E7dz2H4AAAAJ&hl=en" target="_blank">Yifang Ban</a> and Prof. <a href="https://scholar.google.com/citations?user=Mdq6_jQAAAAJ&hl=en" target="_blank">Andrea Nascetti</a>. Also, I'm a research assistant at <b>Hong Kong University of Science and Technology (Guangzhou)</b> AI4City Lab, following Prof. <a href="https://scholar.google.com/citations?user=SE267o4AAAAJ&hl=en" target="_blank">Wufan Zhao</a>. My research interests lie in explainable artificial intelligence (XAI) and its applications in remote sensing, with a focus on interpretable deep learning and image understanding.<br><br>
 
