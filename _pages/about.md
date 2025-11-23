@@ -50,6 +50,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   line-height: 1.6;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><b>[Nov. 2025]</b> One paper accepted by <i>IEEE SPL</i>.</li>
   <li><b>[Oct. 2025]</b> Joined HKUST(GZ) AI4City Lab as a research assistant.</li>
   <li><b>[Oct. 2025]</b> One paper accepted by <i>Knowledge-based Systems</i>.</li>
   <li><b>[Oct. 2025]</b> One paper accepted by <i>Frontiers in Neuroscience</i>.</li>
