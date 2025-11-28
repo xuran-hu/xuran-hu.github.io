@@ -79,7 +79,8 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <div>
     Haitao Yang, Yingzhuo Xiong, Dongliang Zhang, Xiai Yan, <b>Xuran Hu*</b><br>
     <b><i>Lightweight Attention-Enhanced Multi-scale Detector for Robust Small Object Detection in UAV</i></b><br>
-    <i>IEEE Signal Processing Letters</i>
+    <i>IEEE Signal Processing Letters</i>, 2025
+    📄 <a href="https://ieeexplore.ieee.org/document/11270865" target="_blank">Paper</a>
   </div>
 </div>
 
