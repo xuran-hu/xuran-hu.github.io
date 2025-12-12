@@ -53,7 +53,6 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   <li><b>[Nov. 2025]</b> One paper accepted by <i>IEEE SPL</i>.</li>
   <li><b>[Oct. 2025]</b> Joined HKUST(GZ) AI4City Lab as a research assistant.</li>
   <li><b>[Oct. 2025]</b> One paper accepted by <i>Knowledge-based Systems</i>.</li>
-  <li><b>[Oct. 2025]</b> One paper accepted by <i>Frontiers in Neuroscience</i>.</li>
   <li><b>[Jun. 2025]</b> Recieved Master degree from Xidian University.</li>
   <li><b>[Feb. 2025]</b> One paper submitted to <i>IEEE GRSL</i>.</li>
   <li><b>[Nov. 2024]</b> Presented at <i>TELFOR 2024</i>, Belgrade.</li>
@@ -77,7 +76,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
   <img src="images/yolovx.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
   <div>
-    Haitao Yang, Yingzhuo Xiong, Dongliang Zhang, Xiai Yan, <b>Xuran Hu*</b><br>
+    Haitao Yang, Yingzhuo Xiong, Dongliang Zhang, Xiai Yan*, <b>Xuran Hu*</b><br>
     <b><i>Lightweight Attention-Enhanced Multi-scale Detector for Robust Small Object Detection in UAV</i></b><br>
     <i>IEEE Signal Processing Letters</i>, 2025
     📄 <a href="https://ieeexplore.ieee.org/document/11270865" target="_blank">Paper</a>
