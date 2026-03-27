@@ -50,7 +50,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   line-height: 1.6;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><b>[Jan. 2026]</b> Start my PhD journey at KTH!.</li>
+  <li><b>[Jan. 2026]</b> Start my PhD journey at KTH!</li>
   <li><b>[Nov. 2025]</b> One paper accepted by <i>IEEE SPL</i>.</li>
   <li><b>[Oct. 2025]</b> Joined HKUST(GZ) AI4City Lab as a research assistant.</li>
   <li><b>[Oct. 2025]</b> One paper accepted by <i>Knowledge-based Systems</i>.</li>
