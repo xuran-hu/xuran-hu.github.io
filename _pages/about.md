@@ -50,6 +50,7 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
   line-height: 1.6;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><b>[Jan. 2026]</b> Start my PhD journey at KTH!.</li>
   <li><b>[Nov. 2025]</b> One paper accepted by <i>IEEE SPL</i>.</li>
   <li><b>[Oct. 2025]</b> Joined HKUST(GZ) AI4City Lab as a research assistant.</li>
   <li><b>[Oct. 2025]</b> One paper accepted by <i>Knowledge-based Systems</i>.</li>
@@ -71,6 +72,17 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 ## 📄 Publications
 
 <div style="font-size: 15px; line-height: 1.8;">
+
+<!-- Paper 10 -->
+<div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <img src="images/GeoHeight-Bench.png" style="max-width: 480px; width: 100%; height: auto; margin-bottom: 12px; border-radius: 6px;">
+  <div>
+    <b>Xuran Hu</b>, Zhitong Xiong*, Zhongcheng Hong, Yifang Ban, Xiaoxiang Zhu, Wufan Zhao*<br>
+    <b><i>GeoHeight-Bench: Towards Height-Aware Multimodal Reasoning in Remote Sensing</i></b><br>
+    📄 <a href="https://arxiv.org/pdf/2603.25565" target="_blank">Paper</a> |
+    💻 <a href="https://teriri1999.github.io/GeoHeight/" target="_blank">Project Page</a>
+  </div>
+</div>
 
 <!-- Paper 9 -->
 <div style="margin-bottom: 24px; padding: 16px; border: 1px solid var(--color-border-default); border-radius: 10px; background-color: var(--color-canvas-subtle); box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
