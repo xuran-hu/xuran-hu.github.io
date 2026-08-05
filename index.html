@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Xuran Hu — PhD candidate at KTH working on GeoAI, explainable AI, and remote sensing.">
+  <meta name="theme-color" content="#fffaf0">
+  <title>Xuran Hu</title>
+  <script>
+    (() => {
+      try {
+        const saved = localStorage.getItem('theme');
+        const preferred = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.dataset.theme = saved || preferred;
+      } catch (_) {
+        document.documentElement.dataset.theme = 'light';
+      }
+    })();
+  </script>
+  <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="stylesheet.css?v=11">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div id="scroll-progress" aria-hidden="true"></div>
+  <svg class="geo-background" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMin slice" aria-hidden="true" focusable="false">
+    <defs>
+      <pattern id="geo-grid" width="88" height="88" patternUnits="userSpaceOnUse">
+        <path class="geo-grid-line" d="M 88 0 L 0 0 0 88"></path>
+      </pattern>
+      <linearGradient id="geo-fade" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="white"></stop>
+        <stop offset="0.58" stop-color="white" stop-opacity=".72"></stop>
+        <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+      </linearGradient>
+      <mask id="geo-mask"><rect width="1440" height="900" fill="url(#geo-fade)"></rect></mask>
+    </defs>
+    <rect width="1440" height="900" fill="url(#geo-grid)" mask="url(#geo-mask)"></rect>
+  </svg>
+  <header class="site-header">
+    <a class="wordmark" href="#top" aria-label="Back to top">XH<span>.</span></a>
+    <div class="header-actions">
+      <nav id="site-nav" aria-label="Primary navigation">
+        <a href="#about">About</a>
+        <a href="#news">News</a>
+        <a href="#publications">Publications</a>
+        <a href="#awards">Awards</a>
+      </nav>
+      <button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch color theme">
+        <svg class="theme-icon sun-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.5"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.65 17.65l1.42 1.42M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.65 6.35l1.42-1.42"></path></svg>
+        <svg class="theme-icon moon-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 15.2A8.5 8.5 0 0 1 8.8 4a8.5 8.5 0 1 0 11.2 11.2Z"></path></svg>
+      </button>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero page-section" id="about">
+      <div class="hero-copy">
+        <p class="eyebrow">GeoAI · Explainable AI · Remote Sensing</p>
+        <h1>Xuran Hu</h1>
+        <p class="role">PhD Candidate at KTH Royal Institute of Technology</p>
+        <p>
+          Hi! I am a first-year PhD student in the Division of Geoinformatics at
+          <a href="https://www.kth.se/" target="_blank" rel="noreferrer">KTH Royal Institute of Technology</a>,
+          supervised by Prof. <a href="https://scholar.google.com/citations?user=E7dz2H4AAAAJ&hl=en" target="_blank" rel="noreferrer">Yifang Ban</a>
+          and Prof. <a href="https://scholar.google.com/citations?user=Mdq6_jQAAAAJ&hl=en" target="_blank" rel="noreferrer">Andrea Nascetti</a>.
+          My research focuses on explainable artificial intelligence and its applications in remote sensing,
+          especially interpretable deep learning and image understanding.
+        </p>
+        <p>
+          I am also a research assistant at the HKUST(GZ) AI4City Lab with Prof.
+          <a href="https://scholar.google.com/citations?user=SE267o4AAAAJ&hl=en" target="_blank" rel="noreferrer">Wufan Zhao</a>.
+          I received my master's and bachelor's degrees from Xidian University, where my master's research was supervised by Prof.
+          <a href="https://www.researchgate.net/profile/Mingzhe-Zhu-3" target="_blank" rel="noreferrer">Mingzhe Zhu</a>.
+          From May 2024 to February 2025, I visited the Time-Frequency Signal Analysis group at the University of Montenegro under the supervision of Prof.
+          <a href="https://tfsa.ucg.ac.me/ljubisa.html" target="_blank" rel="noreferrer">Ljubiša Stanković</a>.
+        </p>
+        <div class="contact-links" aria-label="Contact and profiles">
+          <a href="mailto:shhxr1999@gmail.com">Email</a>
+          <a href="https://scholar.google.com/citations?user=KfexRuQAAAAJ&hl=en" target="_blank" rel="noreferrer">Google Scholar</a>
+          <a href="https://orcid.org/0009-0009-4767-3759" target="_blank" rel="noreferrer">ORCID</a>
+        </div>
+      </div>
+      <div class="portrait-wrap">
+        <div class="portrait-accent" aria-hidden="true"></div>
+        <img class="portrait" src="images/918719a5a4a495f8c28d12d7b5b2809c.jpg" alt="Portrait of Xuran Hu">
+        <p class="location">Stockholm, Sweden</p>
+      </div>
+    </section>
+
+    <section class="page-section" id="news">
+      <div class="section-heading">
+        <p class="section-kicker">Updates</p>
+        <h2>News</h2>
+      </div>
+      <ol class="news-list">
+        <li><time datetime="2026-07">Jul. 2026</time><span><strong>γ-Bridge</strong> paper &amp; code available.</span></li>
+        <li><time datetime="2026-03">Mar. 2026</time><span><strong>GeoHeight-Bench</strong> paper &amp; project page available.</span></li>
+        <li><time datetime="2026-01">Jan. 2026</time><span>Started my PhD journey at <strong>KTH</strong>.</span></li>
+        <li><time datetime="2025-11">Nov. 2025</time><span>One paper accepted by <strong>IEEE Signal Processing Letters</strong>.</span></li>
+        <li><time datetime="2025-10">Oct. 2025</time><span>Joined the <strong>HKUST(GZ) AI4City Lab</strong> as a research assistant.</span></li>
+        <li class="more-news"><time datetime="2025-10">Oct. 2025</time><span>One paper accepted by <strong>Knowledge-Based Systems</strong>.</span></li>
+        <li class="more-news"><time datetime="2025-06">Jun. 2025</time><span>Received my master's degree from <strong>Xidian University</strong>.</span></li>
+        <li class="more-news"><time datetime="2024-11">Nov. 2024</time><span>Presented at <strong>TELFOR 2024</strong> in Belgrade.</span></li>
+        <li class="more-news"><time datetime="2024-09">Sep. 2024</time><span>One paper accepted by <strong>IEEE JSTARS</strong>.</span></li>
+        <li class="more-news"><time datetime="2024-08">Aug. 2024</time><span>One paper accepted by <strong>Neural Networks</strong>.</span></li>
+        <li class="more-news"><time datetime="2024-06">Jun. 2024</time><span>One paper accepted by <strong>Neurocomputing</strong>.</span></li>
+        <li class="more-news"><time datetime="2024-05">May 2024</time><span>Joined the University of Montenegro TFSA group as a visiting researcher.</span></li>
+        <li class="more-news"><time datetime="2024-01">Jan. 2024</time><span>Two papers accepted at <strong>IGARSS 2024</strong>.</span></li>
+      </ol>
+      <button class="text-button" id="news-toggle" type="button" aria-expanded="false">Show earlier news</button>
+    </section>
+
+    <section class="page-section" id="publications">
+      <div class="section-heading publications-heading">
+        <div>
+          <p class="section-kicker">Selected work</p>
+          <h2>Publications</h2>
+        </div>
+        <a class="scholar-link" href="https://scholar.google.com/citations?user=KfexRuQAAAAJ&hl=en" target="_blank" rel="noreferrer">All on Google Scholar ↗</a>
+      </div>
+      <div class="filters" aria-label="Filter publications">
+        <button class="filter active" type="button" data-filter="all">All <span>12</span></button>
+        <button class="filter" type="button" data-filter="xai">Explainable AI <span>7</span></button>
+        <button class="filter" type="button" data-filter="sar">SAR <span>7</span></button>
+        <button class="filter" type="button" data-filter="remote-sensing">Remote Sensing <span>9</span></button>
+      </div>
+
+      <div class="publication-list">
+        <article class="publication" data-tags="sar remote-sensing">
+          <img src="https://raw.githubusercontent.com/Teriri1999/GammaBridge/main/assets/overview.png" alt="Overview of the gamma-Bridge diffusion process" loading="lazy">
+          <div><p class="pub-meta">Preprint · 2026 <span class="pub-new">New</span></p><h3>γ-Bridge: A Look-Parametric Diffusion Bridge</h3><p><strong>Xuran Hu</strong>, Yujie Zhu, Tengxi Wang, Jilong Li, Wufan Zhao</p><p class="pub-summary">A physically interpretable diffusion bridge for controllable Gamma-noise restoration and zero-shot SAR despeckling.</p><div class="pub-links"><a href="https://arxiv.org/abs/2607.22719" target="_blank" rel="noreferrer">Paper</a><a href="https://github.com/Teriri1999/GammaBridge" target="_blank" rel="noreferrer">Code</a></div></div>
+        </article>
+        <article class="publication" data-tags="remote-sensing">
+          <img src="images/GeoHeight-Bench.png" alt="GeoHeight-Bench project preview" loading="lazy">
+          <div><p class="pub-meta">Preprint · 2026 <span class="pub-new">New</span></p><h3>GeoHeight-Bench: Towards Height-Aware Multimodal Reasoning in Remote Sensing</h3><p><strong>Xuran Hu</strong>, Zhitong Xiong*, Zhongcheng Hong, Yifang Ban, Xiaoxiang Zhu, Wufan Zhao*</p><p class="pub-summary">A benchmark for evaluating height-aware multimodal reasoning across elevation-informed remote sensing tasks.</p><div class="pub-links"><a href="https://arxiv.org/pdf/2603.25565" target="_blank" rel="noreferrer">Paper</a><a href="https://teriri1999.github.io/GeoHeight/" target="_blank" rel="noreferrer">Project</a></div></div>
+        </article>
+        <article class="publication" data-tags="remote-sensing">
+          <img src="images/yolovx.png" alt="UAV small object detection project preview" loading="lazy">
+          <div><p class="pub-meta">IEEE Signal Processing Letters · 2025</p><h3>Lightweight Attention-Enhanced Multi-scale Detector for Robust Small Object Detection in UAV</h3><p>Haitao Yang, Yingzhuo Xiong, Dongliang Zhang, Xiai Yan*, <strong>Xuran Hu*</strong></p><p class="pub-summary">A lightweight attention-enhanced detector for robust small-object localization in UAV imagery.</p><div class="pub-links"><a href="https://ieeexplore.ieee.org/document/11270865" target="_blank" rel="noreferrer">Paper</a></div></div>
+        </article>
+        <article class="publication" data-tags="xai remote-sensing">
+          <img src="images/biomass.png" alt="Biomass dynamics study preview" loading="lazy">
+          <div><p class="pub-meta">Preprint</p><h3>Causal Attribution of Above-ground Biomass Dynamics in Sweden via SHAP</h3><p><strong>Xuran Hu</strong></p><p class="pub-summary">A SHAP-based attribution study of the environmental drivers behind above-ground biomass dynamics across Sweden.</p><p class="pub-status">In preparation for Remote Sensing of Environment</p></div>
+        </article>
+        <article class="publication" data-tags="sar">
+          <img src="images/SR_despeckling.png" alt="SAR despeckling method preview" loading="lazy">
+          <div><p class="pub-meta">Preprint · 2024</p><h3>SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation</h3><p><strong>Xuran Hu</strong>, Mingzhe Zhu*, Djordje Stankovic, Zhenpeng Feng, Ljubiša Stanković</p><p class="pub-summary">A transformation-and-sparse-representation framework for suppressing multiplicative speckle while preserving SAR structure.</p><div class="pub-links"><a href="https://arxiv.org/pdf/2412.18121" target="_blank" rel="noreferrer">Paper</a></div></div>
+        </article>
+        <article class="publication" data-tags="xai sar">
+          <img src="images/GUD.png" alt="GAN-based unsupervised manipulation preview" loading="lazy">
+          <div><p class="pub-meta">Knowledge-Based Systems · 2025</p><h3>Interpretable Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation</h3><p><strong>Xuran Hu</strong>, Mingzhe Zhu*, Ziqiang Xu, Zhenpeng Feng, Ljubiša Stanković</p><p class="pub-summary">An unsupervised GAN framework that learns interpretable manipulations for multiple SAR image-processing tasks.</p><div class="pub-links"><a href="https://doi.org/10.1016/j.knosys.2025.114644" target="_blank" rel="noreferrer">Paper</a></div></div>
+        </article>
+        <article class="publication" data-tags="xai remote-sensing">
+          <img src="images/poc.png" alt="Perturbation on Feature Coalition preview" loading="lazy">
+          <div><p class="pub-meta">TELFOR · 2024</p><h3>Perturbation on Feature Coalition: Towards Interpretable Deep Neural Networks</h3><p><strong>Xuran Hu</strong>, Mingzhe Zhu*, Zhenpeng Feng, Miloš Daković, Ljubiša Stanković</p><p class="pub-summary">A structured perturbation method that explains neural predictions through meaningful feature coalitions.</p><div class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/10819067" target="_blank" rel="noreferrer">Paper</a><a href="https://github.com/Teriri1999/Perturebation-on-Feature-Coalition" target="_blank" rel="noreferrer">Code</a></div></div>
+        </article>
+        <article class="publication" data-tags="xai remote-sensing">
+          <img src="images/RPGV.png" alt="Transformer localization method preview" loading="lazy">
+          <div><p class="pub-meta">IEEE JSTARS · 2024</p><h3>Re-perceive Global Vision of Transformer for RSI Weakly Supervised Object Localization</h3><p><strong>Xuran Hu</strong>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković</p><p class="pub-summary">A Transformer-based approach that reuses global context to improve weakly supervised localization in remote sensing images.</p><div class="pub-links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10678922" target="_blank" rel="noreferrer">Paper</a></div></div>
+        </article>
+        <article class="publication" data-tags="xai sar">
+          <img src="images/lshap_fchart.png" alt="Latent SHAP method preview" loading="lazy">
+          <div><p class="pub-meta">Neural Networks · 2024</p><h3>Manifold-based Shapley Explanations for High Dimensional Correlated Features</h3><p><strong>Xuran Hu</strong>, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković</p><p class="pub-summary">A manifold-aware Shapley method for explaining models with high-dimensional, strongly correlated features.</p><div class="pub-links"><a href="https://doi.org/10.1016/j.neunet.2024.106634" target="_blank" rel="noreferrer">Paper</a><a href="https://github.com/Teriri1999/Latent-SHAP" target="_blank" rel="noreferrer">Code</a></div></div>
+        </article>
+        <article class="publication" data-tags="xai sar remote-sensing">
+          <img src="images/APISAR.png" alt="Adaptive perturbation interpretation preview" loading="lazy">
+          <div><p class="pub-meta">Neurocomputing · 2024</p><h3>Unveiling SAR Target Recognition Networks: Adaptive Perturbation Interpretation</h3><p>Mingzhe Zhu, <strong>Xuran Hu*</strong>, Zhenpeng Feng, Ljubiša Stanković</p><p class="pub-summary">An adaptive perturbation framework for revealing how SAR target-recognition networks form their decisions.</p><div class="pub-links"><a href="https://doi.org/10.1016/j.neucom.2024.128137" target="_blank" rel="noreferrer">Paper</a></div></div>
+        </article>
+        <article class="publication" data-tags="xai sar remote-sensing">
+          <img src="images/lshap2.png" alt="Manifold-based Shapley explanation preview" loading="lazy">
+          <div><p class="pub-meta">IGARSS · 2024</p><h3>Manifold-based Shapley for SAR Recognition Network Explanation</h3><p><strong>Xuran Hu</strong>, Mingzhe Zhu*, Yuanjing Liu, Zhenpeng Feng, Ljubiša Stanković</p><p class="pub-summary">A manifold-based Shapley formulation for more faithful explanations of SAR recognition networks.</p><div class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/10642512" target="_blank" rel="noreferrer">Paper</a></div></div>
+        </article>
+        <article class="publication" data-tags="sar remote-sensing">
+          <img src="images/RDDPM.png" alt="Regional denoising diffusion preview" loading="lazy">
+          <div><p class="pub-meta">IGARSS · 2024</p><h3>SAR Despeckling via Regional Denoising Diffusion Probabilistic Model</h3><p><strong>Xuran Hu</strong>, Ziqiang Xu, Zhihan Chen, Mingzhe Zhu*, Zhenpeng Feng, Ljubiša Stanković</p><p class="pub-summary">A regional denoising diffusion model designed to restore SAR imagery corrupted by speckle noise.</p><div class="pub-links"><a href="https://ieeexplore.ieee.org/document/10641283" target="_blank" rel="noreferrer">Paper</a><a href="https://github.com/Teriri1999/R-DDPM" target="_blank" rel="noreferrer">Code</a></div></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="page-section" id="awards">
+      <div class="section-heading">
+        <p class="section-kicker">Recognition</p>
+        <h2>Awards</h2>
+      </div>
+      <div class="award-grid">
+        <article><span>2024</span><h3>China National Scholarship</h3><p>National recognition</p></article>
+        <article><span>2024</span><h3>Huiding Scholarship</h3><p>Special Prize · Social Scholarship</p></article>
+        <article><span>2022</span><h3>Xidian University Academic Scholarship</h3><p>Special Prize</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Xuran Hu</p>
+    <p>Built for curiosity, clarity, and open research.</p>
+  </footer>
+</body>
+</html>
